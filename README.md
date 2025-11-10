@@ -13,7 +13,9 @@ To Heuristic Evaluation of an Existing Website or App
 
 ## Output:
 
-[uiux.pdf](https://github.com/user-attachments/files/22527321/uiux.pdf)
+[uiuxexp3.pdf](https://github.com/user-attachments/files/23458271/uiuxexp3.pdf)
+
+
 
 
 ## Result:
